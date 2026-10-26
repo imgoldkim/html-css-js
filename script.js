@@ -1,11 +1,11 @@
 // this is a constant variable! constant variables never change after they are assigned a value
-const myConstantVariable = 16;
+const myConstantVariable = 20;
 
 // this is a 'let' variable, which 'lets' you change its value later on
 let numberOfClicks = 0;
 
 // this is an array, which is a special kind of variable that can hold lists of data
-const colours = [ '#ff0000', '#ff00ff', '#00ff00', '#0000ff', ];
+const colours = [ '#1c1a1a', '#c8ff02', '#00ff00', '#0000ff', ];
 // READ MORE: https://www.w3schools.com/jsref/jsref_array[].asp
 
 
